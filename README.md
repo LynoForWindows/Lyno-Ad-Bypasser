@@ -6,7 +6,10 @@ Download the Py File and Open it, Python 3.12 Supported
 https://python.org/downloads or Search it on Microsoft Store.
 
 # What to do if you are missing Modules?
-Type pip install requests, pystyle, os
+Type 
+```
+pip install requests, pystyle, os
+```
 and Restart the file
 
 # Need more help?
